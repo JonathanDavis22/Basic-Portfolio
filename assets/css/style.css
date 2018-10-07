@@ -88,6 +88,7 @@
  #aboutMeContainer {
      width: 960px;
      margin: 0 auto;
+     margin-top: 3px;
  }
 
  #aboutMe {
@@ -168,8 +169,8 @@ input [type=submit]:hover {
     width: 920px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
     border-radius: 5px;
     background-color: #ffffff;
     padding: 20px;
@@ -185,7 +186,7 @@ input [type=submit]:hover {
     width: 960px;
     height: 1025px;
     border: solid ##ffffff 1px;
-    margin-top: 30px;
+    margin-top: 27px;
     margin-bottom: 30px;
 }
 
@@ -270,7 +271,6 @@ input [type=submit]:hover {
     width: 250px;
     height: 250px;
     padding: 20px;
-    /* float: left; */
     position: relative;
 }
 
@@ -294,6 +294,5 @@ input [type=submit]:hover {
     width: 250px;
     height: 250px;
     padding: 20px;
-    /* float: left; */
     position: relative;
 }
