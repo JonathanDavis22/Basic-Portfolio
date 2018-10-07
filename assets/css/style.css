@@ -183,8 +183,8 @@ input [type=submit]:hover {
     margin-left: auto;
     margin-right: auto;
     width: 960px;
-    height: 1035px;
-    border: solid #444 1px;
+    height: 1025px;
+    border: solid ##ffffff 1px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
