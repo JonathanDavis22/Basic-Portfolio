@@ -180,7 +180,7 @@ input [type=submit]:hover {
     margin-left: auto;
     margin-right: auto;
     width: 960px;
-    height: 1100px;
+    height: 1035px;
     border: solid #444 1px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -195,9 +195,9 @@ input [type=submit]:hover {
     background-color: #4aaaa5;
     left: 20px;
     font-size: 14pt;
-    top: 200px;
+    top: 175px;
     text-align: center;
-    width: 235px;
+    width: 210px;
     color: #ffffff;
     padding-left: 20px;
     padding-right: 20px;
@@ -206,11 +206,11 @@ input [type=submit]:hover {
 .text-block2 {
     position: absolute;
     background-color: #4aaaa5;
-    left: 335px;
+    left: 310px;
     font-size: 14pt;
-    top: 200px;
+    top: 175px;
     text-align: center;
-    width: 235px;
+    width: 210px;
     color: #ffffff;
     padding-left: 20px;
     padding-right: 20px;
@@ -221,9 +221,9 @@ input [type=submit]:hover {
     background-color: #4aaaa5;
     left: 20px;
     font-size: 14pt;
-    top: 200px;
+    top: 175px;
     text-align: center;
-    width: 235px;
+    width: 210px;
     color: #ffffff;
     padding-left: 20px;
     padding-right: 20px;
@@ -232,11 +232,11 @@ input [type=submit]:hover {
 .text-block4 {
     position: absolute;
     background-color: #4aaaa5;
-    left: 335px;
+    left: 310px;
     font-size: 14pt;
-    top: 200px;
+    top: 175px;
     text-align: center;
-    width: 235px;
+    width: 210px;
     color: #ffffff;
     padding-left: 20px;
     padding-right: 20px;
@@ -247,49 +247,49 @@ input [type=submit]:hover {
     background-color: #4aaaa5;
     left: 20px;
     font-size: 14pt;
-    top: 200px;
+    top: 175px;
     text-align: center;
-    width: 235px;
+    width: 210px;
     color: #ffffff;
     padding-left: 20px;
     padding-right: 20px;
 }
 
 .Rainier {
-    width: 275px;
-    height: 275px;
+    width: 250px;
+    height: 250px;
     padding: 20px;
     float: left;
     position: relative;
 }
 
 .Puget {
-    width: 275px;
-    height: 275px;
+    width: 250px;
+    height: 250px;
     padding: 20px;
     /* float: left; */
     position: relative;
 }
 
 .laPush {
-    width: 275px;
-    height: 275px;
+    width: 250px;
+    height: 250px;
     padding: 20px;
     float: left;
     position: relative;
 }
 
 .Seattle {
-    width: 275px;
-    height: 275px;
+    width: 250px;
+    height: 250px;
     padding: 20px;
     float: left;
     position: relative;
 }
 
 .HohRainforest {
-    width: 275px;
-    height: 275px;
+    width: 250px;
+    height: 250px;
     padding: 20px;
     /* float: left; */
     position: relative;
