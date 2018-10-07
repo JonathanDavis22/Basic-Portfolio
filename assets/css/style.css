@@ -98,6 +98,7 @@
 
  h1 {
     color: #4aaaa5;
+    font-size: 24pt;
     letter-spacing: 2px;
     padding: 20px 0px 0px 20px;
     margin-bottom: -5px;
@@ -105,7 +106,8 @@
 
  h3 {
     color: #4aaaa5;
-    font-size: 26pt;
+    letter-spacing: 2px;
+    font-size: 24pt;
     left: 30px;
     margin-top: 0;
     padding: 20px;
@@ -140,9 +142,10 @@
 
 h2 {
     color: #4aaaa5;
+    letter-spacing: 2px;
     margin-top: 0;
-    font-size: 22pt;
-    padding: 0px 0px 10px 0px;
+    font-size: 24pt;
+    padding: 0px 0px 15px 0px;
     border-bottom: solid #444 1px
 }
 
